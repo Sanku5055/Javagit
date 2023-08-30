@@ -2,6 +2,7 @@ package com.sample;
 
 import java.util.ArrayList;
 
+@SuppressWarnings({ "rawtypes", "unchecked" })
 public class Example {
 
 	public static void main(String[] args) {
